@@ -1,2 +1,2 @@
 # Odoo-Functional-Implementation-Training-
-This repository has been created to record the training of Odoo Functional Implementation
+This repository has been created to record the training progress of Odoo Functional Implementation
